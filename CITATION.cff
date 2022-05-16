@@ -1,0 +1,10 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Movement detection,Github repository'
+message: Please cite this dataset using these metadata.
+type: software
+authors:
+  - given-names: Csenge
+    family-names: Hubay
