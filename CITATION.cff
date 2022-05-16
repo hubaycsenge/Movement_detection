@@ -8,3 +8,5 @@ type: software
 authors:
   - given-names: Csenge
     family-names: Hubay
+    
+url: https://github.com/hubaycsenge/Movement_detection/
