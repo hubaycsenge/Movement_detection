@@ -34,7 +34,7 @@ import gc
 from unet import UNet
 
 
-class dataset_with_corners(Dataset):
+class DatasetWithCorners(Dataset):
 
     def __init__(self,folder, json, transforms=None):
 
@@ -70,7 +70,7 @@ class dataset_with_corners(Dataset):
         return image, torch.FloatTensor(label),fname
     
     
-class dataset_with_mask(Dataset):
+class DatasetWithMask(Dataset):
 
     def __init__(self,folder, json, transforms=None):
 
