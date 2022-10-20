@@ -5,6 +5,7 @@
     General sequential network: 
     seq_net.py, its original made for PPKE ITK Neural Network 2021 - Competition
     [Kaggle challenge](https://www.kaggle.com/competitions/ppke-itk-nn-2021)
+    [This is an external link to genome.gov](https://www.genome.gov/)
     
     
     U-net: 
