@@ -257,4 +257,3 @@ if __name__ == '__main__':
     args.img_size = check_img_size(args.img_size)
 
     with torch.no_grad():
-        detect(args)
