@@ -18,7 +18,6 @@
    Mask R-CNN:
     Not present in repo \
     [About](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf) \
-    [download from](https://github.com/matterport/Mask_RCNN) \
     
   Yolov5
     Not present in repo \
