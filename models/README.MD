@@ -18,6 +18,8 @@
    Mask R-CNN:
     Not present in repo \
     [About](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf) \
+    Mask preparation: pred_bef_with_Unet.ipynb
+    Notebook with actual training: mask_rcnn_worker.ipynb
     
   Yolov5
     Not present in repo \
